@@ -18,7 +18,7 @@ These are Some keychains that are inspired by sharingan eye designs from Naruto 
 <li>Nozzle: 0.4mm<br></li>
 <li>Speed: 150mm/s</li>
 </ul>
-<b>IMPORTNT: WHEN IMPORTING IN SLICER SELECT "IMPORT AS SINGLE OBJECT WITH MULTIPLE PARTS" TO AVOID AANY ERRORS </b>
+<b>IMPORTNT: WHEN IMPORTING IN SLICER SELECT "IMPORT AS SINGLE OBJECT WITH MULTIPLE PARTS" TO AVOID ANY ERRORS </b>
 <h1>DOWNLOAD LINKS:</h1>
 <b>ONSHAPE:</b> https://cad.onshape.com/documents/23b6ab4a45b591db7c2e53f6/w/49677c1f6bc017aff940d025/e/dde971cbd4b4882f2ea0f2e9?renderMode=0&uiState=6a8b61ec42ef8fe871fc5b6f
 <img width="887" height="660" alt="image" src="https://github.com/user-attachments/assets/7425a46a-fb9d-4f8b-8989-8571593df454" />
