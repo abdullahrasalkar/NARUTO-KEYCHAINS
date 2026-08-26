@@ -1,5 +1,5 @@
 # NARUTO-KEYCHAINS
-Some keychains that are made from eye designs from Naruto anime. they can be printed with or without an ams also they have hole to attach the keyring. they can be attached to bag packs, pouches etc. they are less filament using and only require one filament change. Its looks very good on bags. You can also put multiple keychains togehter <br>
+These are Some keychains that are inspired by sharingan eye designs from Naruto anime. They can be printed with or without an ams also they have hole to attach the keyring. they can be attached to bag packs, pouches etc. they are less filament using and only require one filament change. Its looks very good on bags. You can also put multiple keychains together. You could just use different one for different accessories or you could just use different one each day <br>
 <b>FEATURES:</b><br>
 <ul>
   <li>fully 3d printed model</li>
